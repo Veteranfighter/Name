@@ -10,3 +10,7 @@
     id1 <--HTTPS--> id2[DaBa-API / Backend]
     id2 <--SQL--> id3[MariaDB-Server]
 ```
+
+## Logo Idea
+
+- create a logo with vibrant colors, that uses a [database icon](https://icons.getbootstrap.com/icons/database-fill/) with the bracket of a lock (the top part of a lock)
